@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/57639059/229312552-23e7487d-3951-496f-9927-470815ac6e3a.png) 
 <br/>
 ## Hosted through AWS <br> https://s3.us-west-1.amazonaws.com/my-snake-game.example.com/public/index.html
-basic snake game built with JavaScript
+Basic snake game built with JavaScript.
 <br/>
 Use 'wasd' to move around and collect food to grow your snake!
 <br/>
