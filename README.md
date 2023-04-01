@@ -1,8 +1,12 @@
 # Snake
-Hosted through AWS
+![image](https://user-images.githubusercontent.com/57639059/229312552-23e7487d-3951-496f-9927-470815ac6e3a.png)
 <br/>
-https://s3.us-west-1.amazonaws.com/my-snake-game.example.com/public/index.html
+##Hosted through AWS
+<br/>
+##https://s3.us-west-1.amazonaws.com/my-snake-game.example.com/public/index.html
 <br/>
 basic snake game built with JavaScript
 <br/>
-use 'wasd' to move around
+Use 'wasd' to move around and collect food to grow your snake!
+<br/>
+Don't bump into yourself or the borders, otherwise its game over.
